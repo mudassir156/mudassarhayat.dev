@@ -551,7 +551,7 @@ export function Navbar() {
                 {/* Hire Me CTA */}
                 <a href="#contact" className="nb-cta">
                   <span>Hire Me</span>
-                  <span style={{ fontSize: '0.7rem' }}>✦</span>
+                  <span style={{ fontSize: '0.7rem' }}>📞</span>
                 </a>
 
                 {/* Theme toggle */}

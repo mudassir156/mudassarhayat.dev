@@ -15,12 +15,12 @@ const projects = [
   },
   {
     id: 2,
-    title: 'Mobile Chat App',
-    description: 'Real-time messaging application built with React Native supporting text, images, and file sharing.',
+    title: 'Avaone Mobile App',
+    description: 'A cross-platform mobile app for patients to book appointments, access medical records, and communicate with healthcare providers securely.',
     category: 'Mobile Apps',
-    image: '/project-2.jpg',
+    image: '/images/projects/avaone.png',
     tags: ['React Native', 'Firebase', 'Redux', 'Socket.io'],
-    links: { github: 'https://github.com/mudassar/chat-app' },
+    links: { github: 'https://github.com/mudassir156' },
   },
   {
     id: 3,
@@ -33,12 +33,12 @@ const projects = [
   },
   {
     id: 4,
-    title: 'Fitness Tracking App',
-    description: 'Mobile application for tracking workouts, nutrition, and fitness goals with personalized recommendations.',
+    title: 'Tenszo Mobile App',
+    description: 'A social media mobile app that allows users to share short videos, follow friends, and discover trending content with a personalized feed.',
     category: 'Mobile Apps',
-    image: '/project-4.jpg',
+    image: '/images/projects/tenszo.jpeg',
     tags: ['React Native', 'Expo', 'GraphQL', 'Firebase'],
-    links: { github: 'https://github.com/mudassar/fitness-tracker' },
+    links: { github: 'https://github.com/mudassir156' },
   },
   {
     id: 5,

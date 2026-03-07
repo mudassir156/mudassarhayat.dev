@@ -6,12 +6,12 @@ import { ExternalLink, Github, ArrowUpRight } from 'lucide-react'
 const projects = [
   {
     id: 1,
-    title: 'Productivity Dashboard',
-    description: 'A web application that shows employee productivity and performance metrics in real-time with customizable dashboards and reports.',
+    title: 'InterviewForge',
+    description: 'A comprehensive interview preparation platform offering coding challenges, mock interviews, and personalized feedback to help users excel in technical interviews.',
     category: 'Web Apps',
-    image: '/images/projects/dashboard.png',
+    image: '/images/projects/interviewForge.png',
     tags: ['Next.js', 'TypeScript', 'Stripe', 'PostgreSQL'],
-    links: { live: 'https://example.com' },
+    links: { live: 'https://interview-forge-chi.vercel.app', github: 'https://github.com/mudassir156/interviewforge' },
   },
   {
     id: 2,

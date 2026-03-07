@@ -10,7 +10,7 @@ const projects = [
     description: 'A comprehensive interview preparation platform offering coding challenges, mock interviews, and personalized feedback to help users excel in technical interviews.',
     category: 'Web Apps',
     image: '/images/projects/interviewForge.png',
-    tags: ['Next.js', 'TypeScript', 'Stripe', 'PostgreSQL'],
+    tags: ['Next.js', 'TypeScript', 'Web-socket', 'MongoDB'],
     links: { live: 'https://interview-forge-chi.vercel.app', github: 'https://github.com/mudassir156/interviewforge' },
   },
   {
@@ -36,8 +36,8 @@ const projects = [
     title: 'Tenszo Mobile App',
     description: 'A social media mobile app that allows users to share short videos, follow friends, and discover trending content with a personalized feed.',
     category: 'Mobile Apps',
-    image: '/images/projects/tenszo.jpeg',
-    tags: ['React Native', 'Expo', 'GraphQL', 'Firebase'],
+    image: '/images/projects/tenzso.jpeg',
+    tags: ['React Native', 'Expo', 'Firebase'],
     links: { github: 'https://github.com/mudassir156' },
   },
   {

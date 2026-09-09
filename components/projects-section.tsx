@@ -58,6 +58,15 @@ const projects = [
     tags: ['Next.js', 'TypeScript', 'CSS', 'JavaScript'],
     links: { live: 'https://typing-challenge-game-tau.vercel.app', github: 'https://github.com/mudassir156/TypingChallengeGame' },
   },
+  {
+    id: 7,
+    title: 'Asquaremagzine',
+    description: 'A UK-focused digital magazine platform covering Travel, Finance, and Law, with a public frontend, backend API, and admin panel for full content management, submissions, and newsletters.',
+    category: 'Web Apps',
+    image: '/images/projects/asquaremagzine.png',
+    tags: ['Next.js', 'Express.js', 'MongoDB', 'TypeScript'],
+    links: { live: 'https://asquaremagzine.co.uk/' },
+  },
 ]
 
 type Category = 'All' | 'Web Apps' | 'Mobile Apps' | 'Design'
